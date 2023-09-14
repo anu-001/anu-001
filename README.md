@@ -2,7 +2,7 @@
   <!-- <img src="your_profile_image_url.jpg" alt="Your Name" width="250" height="250"> -->
   <h1>Hi there! 👋 I'm Anu Apiti</h1>
   <p>Turning complex code into elegant solutions</p>
-  <p>Senior Software Engineer | Problem Solver | Leader </p>
+  <p> Senior Software Engineer | Data Engineer | Problem Solver </p>
 </div>
 
 ## 🌟 About Me
@@ -16,11 +16,13 @@ Proven track record of delivering dependable, high-performance solutions in many
 
 ### Languages & Technologies
 
-- **Languages:** Typescript, Python,Java
+- **Languages:** Typescript, Python, Java
 - **Web Technologies:** HTML5, CSS3, React, Node.js
-- **Frameworks:** NestJS, Django, Express.js, Spring MVC
-- **Databases:** PostgreSQL(ORMS - Prisma, TypeORM), MongoDB(Mongoose, TypeORM), Redis
-- **DevOps:** Docker, Terraform
+- **Frameworks:** NestJS, Django, Express.js, Spring MVC, Serverless Framework
+- **Databases:** PostgreSQL(ORMS - Prisma, TypeORM), MongoDB(Mongoose, TypeORM), Redis, Kafka, RabbitMQ
+- **DevOps:** Docker, Terraform, Pipelines
+- **Data Engineering:** AWS Glue, AWS Athena, RedShift
+- **AWS:** Cognito, EKS, KInesis, RDS, S3, DynamoDB, CloudWatch, APIGateway, CloudFront
 - **Other:** Git, RESTful APIs, GraphQL, Agile/Scrum, CI/CD
 
 ### Achievements
