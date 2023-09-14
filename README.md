@@ -1,6 +1,6 @@
 <div align="center">
   <!-- <img src="your_profile_image_url.jpg" alt="Your Name" width="250" height="250"> -->
-  <h1>Hi there! 👋 I'm Anu Apiti</h1>
+  <h1>Hi there! 👋 I'm Anu</h1>
   <p>Turning complex code into elegant solutions</p>
   <p> Senior Software Engineer | Data Engineer | Problem Solver </p>
 </div>
