@@ -2,14 +2,14 @@
   <!-- <img src="your_profile_image_url.jpg" alt="Your Name" width="250" height="250"> -->
   <h1>Hi there! 👋 I'm Anu</h1>
   <p>Turning complex code into elegant solutions</p>
-  <p> Senior Software Engineer | Data Engineer | Problem Solver </p>
+  <p> Senior Software Engineer | Data Scientist </p>
 </div>
 
 ## 🌟 About Me
 
-I'm a senior software & Data engineer with a passion for crafting digital experiences that merge technology with creativity. 
+I'm a senior software engineer and data scientist with a passion for crafting digital products that merge technology with creativity. 
 With over 4 years of hands-on experience, I've honed my skills in the art of coding and problem-solving, bringing innovative solutions to life.
-Proven track record of delivering dependable, high-performance solutions in many domains. Skilled problem solver, effective communicator, and strong leader.
+I have a proven track record of delivering dependable, high-performance solutions in many domains. I am a skilled problem solver, an effective communicator, and a strong leader.
 
 
 ## 💼 Expertise
