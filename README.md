@@ -6,7 +6,7 @@
 </p>
 
 ---
-## 🚀 Some things I've built
+## Some things I've built
 
 - **Fintech Transaction System** - Microservices architecture handling cross-border payments with strict compliance requirements
 - **Commodities Trading Platform** - Blockchain-integrated application with secure wallet integrations
@@ -19,10 +19,10 @@
 
 ## 🔍 What I'm focused on
 
-- 🧩 Full-stack engineering with a strong focus on backend architecture and microservices  
-- 🚀 Building and optimizing scalable data pipelines for analytics and real-time systems  
-- 🤖 Exploring AI/ML workflows and MLOps tooling in my spare time  
-- 📈 Diving deep into quantitative finance as an aspiring quant — algorithms, modeling, and math
+- Full-stack engineering with a strong focus on backend architecture and microservices  
+- Building and optimizing scalable data pipelines for analytics and real-time systems  
+- Exploring AI/ML workflows and MLOps tooling in my spare time  
+- Diving deep into quantitative finance as an aspiring quant — algorithms, modeling, and math
 
 ---
 
@@ -98,7 +98,7 @@
 
 
 
-## 🧠 My Approach
+## My Approach
 
 I love performance tuning and design clarity. I break problems into pieces, build with scalability in mind, and document so others can build confidently too. If I automate it once, I save time forever. Tools matter, but thoughtful engineering wins every time.
 
@@ -111,7 +111,7 @@ I love performance tuning and design clarity. I break problems into pieces, buil
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 <div align="center">
   <a href="https://linkedin.com/in/anu-apiti" target="_blank">
