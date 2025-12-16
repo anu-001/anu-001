@@ -10,9 +10,7 @@
 
 `Systems` · `Data` · `Interface`
 
-[![Status](https://img.shields.io/badge/●_OPEN_TO_WORK-00ff00?style=flat-square&labelColor=111111)](#)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6366f1?style=flat-square&logo=safari&logoColor=white)](https://anuapiti.com)
-[![Location](https://img.shields.io/badge/Canada-Remote_OK-888888?style=flat-square&labelColor=111111)](#)
 
 </div>
 
