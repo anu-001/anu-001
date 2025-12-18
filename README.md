@@ -6,7 +6,7 @@
 ~/anu_apiti
 ```
 
-**Senior Software & Data Engineer**
+**Senior Software Engineer //  Data Engineer**
 
 `Systems` · `Data` · `Interface`
 
