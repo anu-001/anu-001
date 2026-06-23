@@ -1,122 +1,104 @@
-<h1 align="center">Hey, I'm Anu 👋</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a1a&height=180&section=header&text=Anu%20Apiti&fontSize=48&fontColor=f5f5f7&animation=fadeIn&fontAlignY=40&desc=Senior%20Software%20%2F%20Data%20Engineer&descColor=6e6e73&descAlignY=62&descSize=15" width="100%"/>
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&pause=3000&color=0071E3&center=true&vCenter=true&width=580&lines=Distributed+Systems+%E2%80%94+Real-Time+Data+%E2%80%94+Full-Stack+Interface;100k%2B+TPM+%C2%B7+%3C50ms+P99+%C2%B7+99.9%25+Uptime;Canada+%C2%B7+Remote" alt="Typing SVG" />
+  <br/><br/>
+</div>
+
+I architect systems that **scale**, pipelines that **flow**, and interfaces that **perform** — spanning distributed backend, real-time data engineering, and full-stack web.
+
+`Canada · Remote`
+
+---
+
+### Stack
+
+**Languages**  
+![Java](https://img.shields.io/badge/Java-1c1c1e?style=flat-square&logo=openjdk&logoColor=f5f5f7)
+![TypeScript](https://img.shields.io/badge/TypeScript-1c1c1e?style=flat-square&logo=typescript&logoColor=3b82f6)
+![Python](https://img.shields.io/badge/Python-1c1c1e?style=flat-square&logo=python&logoColor=f5f5f7)
+
+**Backend**  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-1c1c1e?style=flat-square&logo=springboot&logoColor=4ade80)
+![Node.js](https://img.shields.io/badge/Node.js-1c1c1e?style=flat-square&logo=nodedotjs&logoColor=4ade80)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1c1c1e?style=flat-square&logo=postgresql&logoColor=7eb8f7)
+![Redis](https://img.shields.io/badge/Redis-1c1c1e?style=flat-square&logo=redis&logoColor=fb7185)
+
+**Frontend**  
+![React](https://img.shields.io/badge/React-1c1c1e?style=flat-square&logo=react&logoColor=67e8f9)
+![Next.js](https://img.shields.io/badge/Next.js-1c1c1e?style=flat-square&logo=nextdotjs&logoColor=f5f5f7)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-1c1c1e?style=flat-square&logo=tailwindcss&logoColor=67e8f9)
+![GraphQL](https://img.shields.io/badge/GraphQL-1c1c1e?style=flat-square&logo=graphql&logoColor=d946ef)
+
+**Data**  
+![Kafka](https://img.shields.io/badge/Kafka-1c1c1e?style=flat-square&logo=apachekafka&logoColor=f5f5f7)
+![Airflow](https://img.shields.io/badge/Airflow-1c1c1e?style=flat-square&logo=apacheairflow&logoColor=7eb8f7)
+![Spark](https://img.shields.io/badge/Spark-1c1c1e?style=flat-square&logo=apachespark&logoColor=fb923c)
+![dbt](https://img.shields.io/badge/dbt-1c1c1e?style=flat-square&logo=dbt&logoColor=fb923c)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-1c1c1e?style=flat-square&logo=elasticsearch&logoColor=f5f5f7)
+
+**Platform**  
+![AWS](https://img.shields.io/badge/AWS-1c1c1e?style=flat-square&logo=amazonaws&logoColor=fb923c)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-1c1c1e?style=flat-square&logo=kubernetes&logoColor=7eb8f7)
+![Terraform](https://img.shields.io/badge/Terraform-1c1c1e?style=flat-square&logo=terraform&logoColor=a78bfa)
+![Docker](https://img.shields.io/badge/Docker-1c1c1e?style=flat-square&logo=docker&logoColor=7eb8f7)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1c1c1e?style=flat-square&logo=githubactions&logoColor=f5f5f7)
+
+---
+
+### Impact
 
 <div align="center">
 
-```
-~/anu_apiti
-```
-
-**Senior Software Engineer //  Data Engineer**
-
-`Systems` · `Data` · `Interface`
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366f1?style=flat-square&logo=safari&logoColor=white)](https://anuapiti.com)
+| `100k+` | `<50ms` | `46%` | `99.9%` |
+|:---:|:---:|:---:|:---:|
+| transactions / min | P99 tail latency | throughput gained | platform uptime |
 
 </div>
 
 ---
 
-### `> whoami`
+### Selected Work
 
-Senior Engineer unifying three disciplines: **Distributed backend architecture**, **streaming data pipelines**, and **full-stack web development**. I build the infrastructure that scales and the UIs that perform.
-
-```hcl
-resource "full_cycle_engineer" "anu_apiti" {
-  capabilities = ["Distributed_Systems", "Data_Engineering", "Full_Stack_Web"]
-  
-  core_stack = {
-    backend  = ["Java", "TypeScript", "Python"]
-    data     = ["Kafka", "Airflow", "Spark"]
-    platform = ["K8s", "AWS", "Terraform"]
-  }
-
-  impact = {
-    throughput = "100k_tpm"
-    uptime     = "99.9%"
-  }
-
-  location = "Canada_Remote"
-}
-```
+| Project | Stack | Result |
+|:--------|:------|:-------|
+| **Real-Time Transaction Engine** | Kinesis · Lambda · Redshift | `100k+ TPM` `<50ms P99` |
+| **Settlement Microservice** | Spring Boot · PostgreSQL | `46% throughput ↑` `zero deadlocks` |
+| **Multi-Region Platform** | Kubernetes · Terraform | `99.9% uptime` `12 services` |
+| **Serverless Video Processing** | Lambda · Step Functions · S3 | `auto-scaling` `cost optimized` |
+| **Cloud ETL Framework** | Airflow · Spark · dbt | `real-time analytics` |
 
 ---
 
-### `> ls ./case_studies`
-
-| Project | Impact | Stack |
-|:--------|:-------|:------|
-| 🔄 **Real-Time Transaction Engine** | `100k+ TPM` `<50ms P99` | Kinesis · Lambda · Redshift |
-| 💳 **Settlement Microservice** | `46% throughput ↑` `0 deadlocks` | Spring Boot · PostgreSQL |
-| ☁️ **Multi-Region Platform** | `99.9% uptime` `12 services` | Kubernetes · Terraform |
-| 🎬 **Serverless Video Processing** | `Auto-scaling` `Cost optimized` | Lambda · Step Functions · S3 |
-| 📊 **Cloud ETL Framework** | `Real-time analytics` | Airflow · Spark · dbt |
-
----
-
-### `> cat ./arsenal`
-
-<table>
-<tr>
-<td valign="top" width="33%">
-
-#### ⚙️ Backend
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="28" alt="Java" title="Java"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="28" alt="Spring Boot" title="Spring Boot"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="28" alt="TypeScript" title="TypeScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="28" alt="Node.js" title="Node.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28" alt="Python" title="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="28" alt="PostgreSQL" title="PostgreSQL"/>
-</p>
-
-</td>
-<td valign="top" width="33%">
-
-#### 📡 Data
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="28" alt="Kafka" title="Apache Kafka"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="28" alt="Airflow" title="Apache Airflow"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="28" alt="Spark" title="Apache Spark"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="28" alt="Redis" title="Redis"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="28" alt="Elasticsearch" title="Elasticsearch"/>
-</p>
-
-</td>
-<td valign="top" width="33%">
-
-#### ☁️ Platform
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="28" alt="AWS" title="AWS"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="28" alt="Kubernetes" title="Kubernetes"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="28" alt="Terraform" title="Terraform"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="28" alt="Docker" title="Docker"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="28" alt="GitHub Actions" title="GitHub Actions"/>
-</p>
-
-</td>
-</tr>
-</table>
-
----
-
-### `> ./connect.sh`
+### GitHub Stats
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anu-apiti)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anu-001)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@anuapiti.com)
-[![Portfolio](https://img.shields.io/badge/anuapiti.com-6366f1?style=for-the-badge&logo=safari&logoColor=white)](https://anuapiti.com)
-
+  <img height="158" src="https://github-readme-stats.vercel.app/api?username=anu-001&show_icons=true&hide_border=true&bg_color=00000000&title_color=ebebf0&icon_color=0071e3&text_color=8e8e93&rank_icon=github" />
+  &nbsp;
+  <img height="158" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anu-001&layout=compact&hide_border=true&bg_color=00000000&title_color=ebebf0&text_color=8e8e93&langs_count=6" />
 </div>
 
 ---
 
+### Connect
+
 <div align="center">
 
-<sub>`© 2025 Anu Apiti` · `git commit -m "Always shipping"`</sub>
+[![Portfolio](https://img.shields.io/badge/anuapiti.com-1c1c1e?style=flat-square&logo=safari&logoColor=f5f5f7)](https://anuapiti.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1c1c1e?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/anu-apiti)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-1c1c1e?style=flat-square&logo=github&logoColor=f5f5f7)](https://github.com/anu-001)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-1c1c1e?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:hello@anuapiti.com)
 
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0d0d0d&height=80&section=footer" width="100%"/>
 </div>
