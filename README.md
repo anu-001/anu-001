@@ -27,7 +27,9 @@ I architect systems that **scale**, pipelines that **flow**, and interfaces that
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1c1c1e?style=flat-square&logo=postgresql&logoColor=7eb8f7)
 ![Redis](https://img.shields.io/badge/Redis-1c1c1e?style=flat-square&logo=redis&logoColor=fb7185)
 
-**Frontend**  
+**Frontend**
+![HTML](https://img.shields.io/badge/HTML-1c1c1e?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-1c1c1e?style=flat-square&logo=css3&logoColor=1572B6)
 ![React](https://img.shields.io/badge/React-1c1c1e?style=flat-square&logo=react&logoColor=67e8f9)
 ![Next.js](https://img.shields.io/badge/Next.js-1c1c1e?style=flat-square&logo=nextdotjs&logoColor=f5f5f7)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-1c1c1e?style=flat-square&logo=tailwindcss&logoColor=67e8f9)
@@ -38,14 +40,15 @@ I architect systems that **scale**, pipelines that **flow**, and interfaces that
 ![Airflow](https://img.shields.io/badge/Airflow-1c1c1e?style=flat-square&logo=apacheairflow&logoColor=7eb8f7)
 ![Spark](https://img.shields.io/badge/Spark-1c1c1e?style=flat-square&logo=apachespark&logoColor=fb923c)
 ![dbt](https://img.shields.io/badge/dbt-1c1c1e?style=flat-square&logo=dbt&logoColor=fb923c)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-1c1c1e?style=flat-square&logo=elasticsearch&logoColor=f5f5f7)
+![Snowflake](https://img.shields.io/badge/Snowflake-1c1c1e?style=flat-square&logo=snowflake&logoColor=29b5e8)
+![Databricks](https://img.shields.io/badge/Databricks-1c1c1e?style=flat-square&logo=databricks&logoColor=ff3621)
 
 **Platform**  
 ![AWS](https://img.shields.io/badge/AWS-1c1c1e?style=flat-square&logo=amazonaws&logoColor=fb923c)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-1c1c1e?style=flat-square&logo=kubernetes&logoColor=7eb8f7)
 ![Terraform](https://img.shields.io/badge/Terraform-1c1c1e?style=flat-square&logo=terraform&logoColor=a78bfa)
 ![Docker](https://img.shields.io/badge/Docker-1c1c1e?style=flat-square&logo=docker&logoColor=7eb8f7)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1c1c1e?style=flat-square&logo=githubactions&logoColor=f5f5f7)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-1c1c1e?style=flat-square&logoColor=f5f5f7)
 
 ---
 
