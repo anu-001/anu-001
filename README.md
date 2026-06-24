@@ -4,11 +4,11 @@
 
 <div align="center">
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&pause=3000&color=0071E3&center=true&vCenter=true&width=580&lines=Distributed+Systems+%E2%80%94+Real-Time+Data+%E2%80%94+Full-Stack+Interface;100k%2B+TPM+%C2%B7+%3C50ms+P99+%C2%B7+99.9%25+Uptime;Canada+%C2%B7+Remote" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&pause=3000&color=0071E3&center=true&vCenter=true&width=580&lines=Full-Stack+Engineering+%E2%80%94+Backend+Engineering+%E2%80%94+Data+Engineering;100k%2B+TPM+%C2%B7+%3C50ms+P99+%C2%B7+99.9%25+Uptime;Canada+%C2%B7+Remote" alt="Typing SVG" />
   <br/><br/>
 </div>
 
-I architect systems that **scale**, pipelines that **flow**, and interfaces that **perform** — spanning distributed backend, real-time data engineering, and full-stack web.
+I architect systems that **scale**, pipelines that **flow**, and interfaces that **perform** — spanning distributed backend, data engineering, and full-stack web.
 
 `Canada · Remote`
 
@@ -27,12 +27,11 @@ I architect systems that **scale**, pipelines that **flow**, and interfaces that
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1c1c1e?style=flat-square&logo=postgresql&logoColor=7eb8f7)
 ![Redis](https://img.shields.io/badge/Redis-1c1c1e?style=flat-square&logo=redis&logoColor=fb7185)
 
-**Frontend**
+**Frontend**  
 ![HTML](https://img.shields.io/badge/HTML-1c1c1e?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/CSS-1c1c1e?style=flat-square&logo=css3&logoColor=1572B6)
 ![React](https://img.shields.io/badge/React-1c1c1e?style=flat-square&logo=react&logoColor=67e8f9)
 ![Next.js](https://img.shields.io/badge/Next.js-1c1c1e?style=flat-square&logo=nextdotjs&logoColor=f5f5f7)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-1c1c1e?style=flat-square&logo=tailwindcss&logoColor=67e8f9)
 ![GraphQL](https://img.shields.io/badge/GraphQL-1c1c1e?style=flat-square&logo=graphql&logoColor=d946ef)
 
 **Data**  
