@@ -1,5 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a1a&height=180&section=header&text=Anu%20Apiti&fontSize=48&fontColor=f5f5f7&animation=fadeIn&fontAlignY=40&desc=Senior%20Software%20%2F%20Data%20Engineer&descColor=6e6e73&descAlignY=62&descSize=15" width="100%"/>
+
+<br/>
+
+# Anu Apiti
+
+**Senior Software Engineer | Data/AI Engineer**
+
+<sub>Full Stack Engineering · Product · Data · AI</sub>
+
+<br/>
+
 </div>
 
 <div align="center">
@@ -100,7 +110,3 @@ I architect systems that **scale**, pipelines that **flow**, and interfaces that
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0d0d0d&height=80&section=footer" width="100%"/>
-</div>
